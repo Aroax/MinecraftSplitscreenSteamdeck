@@ -87,7 +87,7 @@ This hybrid approach ensures reliable automated installation while providing the
 1. **Download and run the installer:**
    - You can get the latest installer script from the [Releases section](https://github.com/FlyingEwok/MinecraftSplitscreenSteamdeck/releases) (recommended for stable versions), or use the latest development version with:
    ```sh
-   wget https://raw.githubusercontent.com/FlyingEwok/MinecraftSplitscreenSteamdeck/main/install-minecraft-splitscreen.sh
+   wget https://raw.githubusercontent.com/Aroax/MinecraftSplitscreenSteamdeck/main/install-minecraft-splitscreen.sh
    chmod +x install-minecraft-splitscreen.sh
    ./install-minecraft-splitscreen.sh
    ```

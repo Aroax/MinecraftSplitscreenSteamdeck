@@ -276,7 +276,7 @@ setup_pollymc_launcher() {
     # LAUNCHER SCRIPT DOWNLOAD: Get the splitscreen launcher script from GitHub
     # This script handles controller detection and multi-instance launching
     if wget -O "$HOME/.local/share/PollyMC/minecraftSplitscreen.sh" \
-        "https://raw.githubusercontent.com/FlyingEwok/MinecraftSplitscreenSteamdeck/main/minecraftSplitscreen.sh"; then
+        "https://raw.githubusercontent.com/Aroax/MinecraftSplitscreenSteamdeck/main/minecraftSplitscreen.sh"; then
         chmod +x "$HOME/.local/share/PollyMC/minecraftSplitscreen.sh"
         
         # LAUNCHER SCRIPT CONFIGURATION: Modify paths to use PollyMC instead of PrismLauncher
